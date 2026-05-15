@@ -437,6 +437,43 @@ function initLanguageSelect() {
   }
   .cb-list { margin: 0; padding-left: 1.25rem; color: #aaa79f; font-size: .74rem; line-height: 1.78; }
   .cb-list li { margin: .16rem 0; padding-left: .15rem; }
+  .cb-policy {
+    margin-top: .55rem;
+    padding: .8rem .9rem .85rem;
+    background: linear-gradient(180deg, rgba(201,168,76,.08), rgba(201,168,76,.02));
+    border: 1px solid rgba(201,168,76,.32);
+    border-radius: 3px;
+  }
+  .cb-policy-tag {
+    display: inline-block;
+    font-family: 'DM Mono', monospace;
+    font-size: .54rem;
+    letter-spacing: .14em;
+    text-transform: uppercase;
+    color: #080810;
+    background: var(--gold);
+    padding: .12rem .5rem;
+    border-radius: 2px;
+    margin-bottom: .5rem;
+    font-weight: 600;
+  }
+  .cb-policy-summary {
+    color: var(--text);
+    font-size: .82rem;
+    line-height: 1.75;
+    margin-bottom: .55rem;
+  }
+  .cb-policy-section { margin-top: .55rem; }
+  .cb-policy-section-title {
+    font-size: .76rem;
+    color: var(--gold);
+    margin-bottom: .3rem;
+    font-weight: 600;
+    border-left: 2px solid var(--gold);
+    padding-left: .5rem;
+  }
+  .cb-policy-list { margin: 0; padding-left: 1.25rem; color: #c4c2bc; font-size: .74rem; line-height: 1.85; }
+  .cb-policy-list li { margin: .26rem 0; padding-left: .15rem; }
 
   /* ── 即時快訊 ── */
   .filter-wrap { display: flex; flex-wrap: wrap; gap: .3rem; align-items: center; padding: .45rem .9rem; background: rgba(8,8,16,.95); border-bottom: 1px solid var(--border); flex-shrink: 0; }
@@ -1381,6 +1418,42 @@ function renderBulletSection(title, items) {
   `;
 }
 
+function renderPolicySection(title, items) {
+  const bullets = (items || []).filter(Boolean);
+  if (!bullets.length) return '';
+  const rows = bullets.map(text => `<li>${attrEscape(text)}</li>`).join('');
+  return `
+    <div class="cb-policy-section">
+      <div class="cb-policy-section-title">${attrEscape(title)}</div>
+      <ol class="cb-policy-list">${rows}</ol>
+    </div>
+  `;
+}
+
+function renderPolicyRelease(release) {
+  if (!release || !release.has_release) return '';
+  const summary = (release.summary || '').trim();
+  const summaryBlock = summary
+    ? `<div class="cb-policy-summary">${attrEscape(summary)}</div>`
+    : '';
+  const sections = [
+    renderPolicySection('利率決議與政策工具', release.decision),
+    renderPolicySection('政策聲明關鍵內容', release.statement),
+    renderPolicySection('經濟與通膨評估', release.economic_view),
+    renderPolicySection('前瞻指引', release.forward_guidance),
+    renderPolicySection('記者會 / 行長談話重點', release.press_conference),
+    renderPolicySection('市場反應與後續定價', release.market_reaction),
+  ].join('');
+  if (!summaryBlock && !sections) return '';
+  return `
+    <div class="cb-policy">
+      <span class="cb-policy-tag">Policy Decision · 深度分析</span>
+      ${summaryBlock}
+      ${sections}
+    </div>
+  `;
+}
+
 function renderCentralBankSummary(item) {
   const root = document.getElementById('centralBankList');
   const headline = document.getElementById('cbHeadline');
@@ -1395,18 +1468,22 @@ function renderCentralBankSummary(item) {
   headline.textContent = item.headline || '央行摘要';
   updated.textContent = `${item.date || '—'}｜${item.generated_at || '—'}`;
   root.innerHTML = (item.central_banks || []).map(bank => {
-    const sections = [
-      renderBulletSection('## 1. 當天該央行官員發言整理', bank.officials),
-      renderBulletSection('## 2. 市場對於央行的政策預期', bank.expectations),
-      renderBulletSection('## 3. 當天央行重要報告發布', bank.reports),
-    ].join('');
+    const release = bank.policy_release;
+    const hasRelease = !!(release && release.has_release);
+    const body = hasRelease
+      ? renderPolicyRelease(release)
+      : [
+          renderBulletSection('1. 當天該央行官員發言整理', bank.officials),
+          renderBulletSection('2. 市場對於央行的政策預期', bank.expectations),
+          renderBulletSection('3. 當天央行重要報告發布', bank.reports),
+        ].join('');
     return `
       <article class="cb-card">
         <div class="cb-card-head">
           <div class="cb-name">${attrEscape(bank.name || '')}</div>
           <div class="cb-status">${attrEscape(bank.status || '追蹤中')}</div>
         </div>
-        ${sections}
+        ${body}
       </article>
     `;
   }).join('');
