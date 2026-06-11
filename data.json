@@ -1,7 +1,99 @@
 {
-  "updated": "2026-06-12 07:33:24",
-  "count": 18438,
+  "updated": "2026-06-12 07:46:57",
+  "count": 18424,
   "items": [
+    {
+      "id": "4931370",
+      "time": "2026-06-12 07:46:11",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【中信建投：關注半導體前驅體量價齊升大趨勢】中信建投研報稱，前驅體產品受益於下游產能擴產大週期，業績高增長確定性強。下游晶圓廠如海力士規劃未來5年晶圓廠產能翻倍，長鑫亦有到2030年產能接近翻倍的擴產計劃。基於前驅體產品在製造過程中角色的關鍵性以及後續整個晶片製造愈發微觀化/高階化的程序，中信建投認為行業頭部企業存在較高和下游議價的可能性以及產品品類迭代下價值量的躍遷。"
+    },
+    {
+      "id": "4931369",
+      "time": "2026-06-12 07:46:05",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本日經平均指數期貨早盤上漲3.64%。"
+    },
+    {
+      "id": "mkt:019eb913-b993-7dd8-afcc-94e016cf1cb7",
+      "time": "2026-06-12 07:45:38",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "XAUUSD",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "DXY",
+        "Impact mixed"
+      ],
+      "text": "【U.S. appeals court allows temporary enforcement of Trump’s 10% global tariffs; case may return to Supreme Court】A U.S. federal appeals court on Thursday extended a stay of a lower-court injunction and ruled the government may collect Trump’s 10% global tariffs while legal challenges proceed, saying temporary enforcement is \"amply justified.\" Affected importers include two small businesses and the state of Washington, which paid duties on purchases for the University of Washington. Trump imposed the duties in February under Section 122 of the Trade Act of 1974 after the Supreme Court struck down his earlier IEEPA-based tariffs. In May, a split panel of the U.S. Court of International Trade found the Section 122 tariffs invalid, prompting a new appeal that is likely to return to the Supreme Court."
+    },
+    {
+      "id": "4931368",
+      "time": "2026-06-12 07:43:45",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【美國授權杜克能源部分機組滿負荷執行】美國能源部在一份郵件宣告中表示，受高溫天氣影響，為防範南北卡羅來納州出現停電事故，該部門已釋出緊急指令。該指令授權杜克能源卡羅來納分公司與杜克能源普羅格雷斯分公司，將其供電區域內指定發電機組提升至最大出力執行。美國能源部稱，受區域內負荷預測偏高、氣溫驟升影響，此項指令可降低非必要停電風險。本指令於美國東部時間6月11日16時生效，6月12日22時到期。"
+    },
+    {
+      "id": "4931367",
+      "time": "2026-06-12 07:43:30",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【中信建投：低利率時代央企金融業務轉型】中信建投研報稱，低利率環境下，傳統依賴存貸利差的金融盈利模式面臨根本性挑戰，央企金融板塊亟需從\"規模擴張\"轉向\"價值創造\"，路徑有三：構建輕重均衡的綜合收入結構、以客戶為中心重構全生命週期解決方案、全面推進數字化轉型。中油資本依託石油集團全牌照佈局，走“產融結合、以融促產”道路。電投產融則選擇逆向操作——置出金融、置入核電，轉型為第三大核電運營平臺。產投協同方面，中國移動\"彩虹橋\"模式透過投前投中投後三同步機制和六大協同模式，為大企業產投融合提供了可複製範本。整體而言，央企金融業務轉型正從被動應對利率下行，走向主動的戰略性進退取捨——低估值金控平臺的防禦價值與產融協同增量值得關注。"
+    },
+    {
+      "id": "4931366",
+      "time": "2026-06-12 07:40:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "【前四月工業技改投資增長近五成 深圳工業投資持續加碼推動產業升級】裝置更新和技術改造，是擴大工業投資的重要路徑，也是推動製造業高階化、智慧化、綠色化發展的重要抓手。作為全國“工業第一城”，深圳工業投資的佔比從2020年的13.6%，到2025年的25.5%，提高了11.9個百分點。深圳持續加碼新基建領域技改升級，加快算力網、新一代通訊網布局，推進國家超級計算深圳中心、“鵬城雲腦”等重大科技基礎設施升級換代，以新基建技術改造拉動全產業鏈投資。一個個重大專案串聯起工業投資版圖，從高階晶片到智慧裝備，從綠色算力到新能源製造，專案建設的熱潮不斷釋放投資活力，推動工業技改投資持續走高。今年1-4月，深圳工業技改投資同比大幅增長47.2%。（深圳特區報）"
+    },
+    {
+      "id": "4931365",
+      "time": "2026-06-12 07:39:10",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國能源部就卡羅來納州電網發表宣告：授權杜克能源公司部分機組以最高負荷執行。"
+    },
+    {
+      "id": "4931364",
+      "time": "2026-06-12 07:35:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "【北京入汛以來降水量達去年同期7倍】根據北京市氣象臺釋出的全市雨量氣候統計（20個國家級站平均），從今年1月1日至6月11日8時，全市累計降水量已達156毫米，比常年同期97.9毫米偏多59.3%，比去年同期111毫米偏多40.5%；入汛以來（6月1日至11日8時），全市累計降水量29.2毫米，比常年同期22.5毫米偏多29.8%，是去年同期4.1毫米的7.1倍。"
+    },
+    {
+      "id": "4931363",
+      "time": "2026-06-12 07:34:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以軍或進一步擴大在黎南部軍事行動】當地時間11日，以色列方面援引安全部門訊息人士的話稱，以色列軍隊目前已推進至距離黎巴嫩南部主要城市奈拜提耶僅幾公里的區域，目前正等待政府高層的最終決定，以確定是否將地面行動進一步擴大至黎巴嫩真主黨的核心據點。以軍強調，如果以軍繼續向黎北部縱深推進，將被定性為“進攻性行動”，不再屬於防禦活動的範疇。以色列國防軍11日還發表宣告稱，以軍部隊已經在黎南部利塔尼河的支流薩盧基河以北地區完成相關軍事行動，並取得該區域的“行動控制權”。"
+    },
+    {
+      "id": "4931362",
+      "time": "2026-06-12 07:33:08",
+      "tags": [
+        "公司"
+      ],
+      "text": "【Alphabet旗下自動駕駛公司Waymo將推出30美元月費會員計劃】當地時間6月11日，Alphabet旗下自動駕駛公司Waymo宣佈，將推出僅限受邀使用者參與的Waymo Premier30美元月費會員計劃，會員可享受優先接送、每次行程10%的乘車返現（以乘車積分形式返還）、在新城市優先體驗Waymo服務以及每月最多五次免費取消行程等權益。"
+    },
     {
       "id": "te:markets:558491",
       "time": "2026-06-12 07:32:54",
@@ -169813,227 +169905,6 @@
         "國際"
       ],
       "text": "【印尼中蘇拉威西省東北部海域發生5.6級地震】據印尼氣象、氣候和地球物理局釋出的報告，當地時間6月5日6時28分，印尼中蘇拉威西省東北方向70公里海域發生5.6級地震，震源深度91公里。預計不會有海嘯風險。"
-    },
-    {
-      "id": "4918283",
-      "time": "2026-06-05 07:46:06",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【在中東局勢存在不確定性之際，日經指數或將下跌】隨著中東衝突的不確定性持續存在，日本股市或將下跌。新加坡交易所的日經指數期貨下跌0.4%，至67395點。隔夜科技股的下跌也可能拖累市場。投資者正關注伊朗戰爭的發展及其對能源和石化產品價格的影響。日經指數週四下跌1.4%，至67470.69點。"
-    },
-    {
-      "id": "4918282",
-      "time": "2026-06-05 07:45:40",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "基準10年期日本國債期貨早盤上漲0.06個點。"
-    },
-    {
-      "id": "4918281",
-      "time": "2026-06-05 07:45:35",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "日本日經平均指數期貨早盤下跌0.7%。"
-    },
-    {
-      "id": "4918280",
-      "time": "2026-06-05 07:45:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "【不拼網速側重廣覆蓋 6G將帶來三大產業機遇】6月4日，工業和資訊化部發文開展6G創新發展部省協同試點專項行動，通知要求加強新型終端、晶片器件、作業系統、商業航天等6G關聯產業培育。此前，5月8日，工業和資訊化部批覆6GHz頻段（6425—7125MHz）作為6G試驗頻率，我國6G開始走進真實場景。6G政策東風勁吹，產業駛入發展快車道。專家指出，6G發展將不再單純拼網速，而是更側重廣覆蓋。6G將帶來多媒體寬頻、6G與AI結合、大規模物聯網三大主要發展機遇，其中，與AI結合，將是6G最重要的市場機會。"
-    },
-    {
-      "id": "4918279",
-      "time": "2026-06-05 07:45:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本財務大臣片山：始終做好準備，在必要時對外匯市場採取適當應對措施。"
-    },
-    {
-      "id": "mkt:019e9506-9f8e-7cc8-bdef-b585d4003012",
-      "time": "2026-06-05 07:44:59",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bearish"
-      ],
-      "text": "Japan's finance minister Katayama said she remains prepared to take appropriate measures in the foreign-exchange market as needed."
-    },
-    {
-      "id": "4918278",
-      "time": "2026-06-05 07:44:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "塔吉特：因微生物汙染問題召回Up&Up品牌嬰兒溼巾，此次召回是在美國食品藥品監督管理局知情情況下開展的。"
-    },
-    {
-      "id": "mkt:019e9506-4fca-7cc8-bdef-aae251e3a077",
-      "time": "2026-06-05 07:44:39",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "Japan's finance minister Katayama Satsuki said she will not comment on exchange-rate levels."
-    },
-    {
-      "id": "4918277",
-      "time": "2026-06-05 07:44:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本財務大臣片山：不對匯率水平置評。"
-    },
-    {
-      "id": "4918276",
-      "time": "2026-06-05 07:43:57",
-      "tags": [
-        "公司"
-      ],
-      "text": "【證券日報：比亞迪正在開發人形機器人】近日，比亞迪股份有限公司（以下簡稱“比亞迪”）執行副總裁李柯公開表示，比亞迪正在開發人形機器人。“機器人的競爭在於誰有最強的製造能力、軟體能力和硬體能力，而汽車相關AI能力可以移植到機器人上。”更早之前，比亞迪已經在人才上進行佈局。2024年底，比亞迪具身智慧研究團隊釋出招聘簡章，招聘高階演算法工程師、高階結構工程師、高階模擬工程師等。比亞迪還透過入股人形機器人企業的方式切入人形機器人賽道。2025年4月份，比亞迪成功入股人形機器人公司帕西尼感知科技（深圳）有限公司，目前為其第二大股東，持股比例為7.95%。除比亞迪外，包括小鵬、廣汽集團在內的不少車企也在加快佈局人形機器人領域，試圖打造新的利潤增長點。"
-    },
-    {
-      "id": "4918275",
-      "time": "2026-06-05 07:43:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗說將同阿曼規範管理霍爾木茲海峽】伊朗外交部長阿拉格齊4日表示，伊朗將同阿曼一道，依據國際法標準來規範管理霍爾木茲海峽。伊朗法爾斯通訊社援引阿拉格齊的話報道，伊朗將就此與海灣地區國家進行磋商，但最終決定權歸伊朗和阿曼。阿拉格齊還說，伊朗掌握大量證據，證明美國和以色列利用阿聯酋領空和領土襲擊伊朗。他表示，阿聯酋與以色列有外交關係，兩國之間政治、經貿和經濟聯絡非常密切，有檔案和證據表明，阿聯酋也參與了針對伊朗的部分軍事行動。（新華社）"
-    },
-    {
-      "id": "4918274",
-      "time": "2026-06-05 07:42:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本財務大臣片山皋月：消費稅減免的方向尚未確定。"
-    },
-    {
-      "id": "4918273",
-      "time": "2026-06-05 07:42:04",
-      "tags": [
-        "市場",
-        "觀點"
-      ],
-      "text": "【國金證券：鋰電6月排產景氣維持高位】國金證券研報稱，鋰電6月排產景氣維持高位，環增1%～6%，同增49%～66%。2026年1～6月，電池/正極/負極/隔膜/電解液預排產累計同比分別增長46%/49%/47%/53%/59%，其中電解液、電池同比均超60%。整體看，6月鋰電產業鏈排產在5月明顯回升後的高基數上繼續增長，短期節奏由快速拉昇轉向高位平穩，反映下游需求韌性持續向好、產業鏈景氣度仍處高位。5月鋰電產業鏈價格延續結構性分化，整體表現為上游成本支撐仍強、中下游漲價傳導偏弱。價格上漲主要來自供給擾動和原料成本抬升，鋰鹽、鎳鹽及磷系材料表現相對較強；需求端雖有電池、儲能及三元排產支撐，但更多體現為剛需託底，並未帶動全鏈條順暢漲價。因此，正極、電解液等中游環節價格多為小幅上移，漲幅明顯弱於上游原料。相反，供給恢復較快或庫存壓力較大的環節繼續承壓，DMC及低硫石油焦價格回落。整體看，5月鋰電產業鏈價格分化仍是主線。"
-    },
-    {
-      "id": "4918272",
-      "time": "2026-06-05 07:39:34",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【中信證券：港股正式進入牛市中後段】6月5日，中信證券黃文濤、何盛團隊一份研報指出，港股本輪主升浪正在確立。自3月底，中信證券提出港股階段性配置機會以來，港股已逐步完成階段性探底，並在4月TACO交易後構築中期底部。中信證券認為，港股行情正由前期估值和情緒修復，轉向盈利驗證與風險偏好改善共同驅動的新階段。從大週期看，港股已經走出去年以來的低位估值修復階段，正式進入牛市中後段。本階段不會再是指數普漲行情，而是由盈利、景氣度和產業兌現共同驅動的結構性主升。流動性和估值修復已經兌現較多，後續決定超額收益的核心變數將轉向業績驗證。網際網路龍頭一季報已經出現結構性改善，市場對港股盈利修復的預期正在重建。(大河財立方)"
-    },
-    {
-      "id": "4918271",
-      "time": "2026-06-05 07:39:25",
-      "tags": [
-        "公司"
-      ],
-      "text": "【證券日報：警惕併購重組中的非理性溢價】近日，一家主營光通訊領域的A股上市公司釋出公告稱，終止籌劃以“發行股份+現金”方式收購同業細分標的企業股權的資產重組事項。深究背後原因，系雙方在標的資產估值上分歧過大，難以調和，一場有望實現雙向增益的產業鏈併購就此作罷。據筆者不完全統計，年內因同樣原因終止的重組專案還有5單。在產業併購熱情持續升溫的背景下，部分細分熱門賽道標的估值脫離基本面、溢價居高不下，已成為一些併購專案半路夭折的重要誘因。"
-    },
-    {
-      "id": "4918270",
-      "time": "2026-06-05 07:37:59",
-      "tags": [
-        "公司"
-      ],
-      "text": "【夏日高溫催熱“防曬經濟”，上市公司多元化掘金細分賽道】6月以來，全國多地氣溫突破35攝氏度，部分地區入夏偏早、高溫強度大。“防曬經濟”隨之升溫，從防曬霜到防曬衣、遮陽傘等“硬防曬”裝備需求旺盛，A股相關上市公司進入年度銷售旺季。 面對消費者日益精細化的需求，企業不再依賴單一品類，而是透過技術迭代、場景拓展和材料創新，在這一藍海市場中挖掘多元增長點。（上海證券報）"
-    },
-    {
-      "id": "4918269",
-      "time": "2026-06-05 07:37:54",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金失守4490美元/盎司，日內跌0.33%。"
-    },
-    {
-      "id": "te:economy:556608",
-      "time": "2026-06-05 07:37:20",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Japan",
-        "Household Spending",
-        "Importance 1"
-      ],
-      "text": "Japan Personal Spending Falls the Least in 5 Months — Household spending in Japan dropped 0.5% yoy in April 2026, easing from a 2.9% decline in the prior month and beating market expectations for a 1.5% fall. While this marked the fifth straight month of contraction, it was also the mildest decline in the sequence, suggesting that easing inflationary pressures may be helping to support consumer spending. Expenditure on food fell at a slower pace, (-0.5% vs -2.9% in March) while spending increasing for transport and communication (7.5% vs -16.8%), housing (7.6% vs 15.3%), furniture and household goods (19.0% vs 5.5%), healthcare (6.7% vs 20.1%), and culture and recreation (6.3% vs 4.6%). In contrast, outlays weakened further on clothing and footwear (-10.9% vs -2.6%) and utilities (-8.6% vs -3.2%). Education spending also shrank, down 19.4% after a 2.1% increase in March. On a seasonally adjusted monthly basis, household expenditure rose 1.6%, rebounding from a 1.3% fall in March and exceeding forecasts of a 0.8% increase."
-    },
-    {
-      "id": "mkt:019e94ff-9850-7cc8-bdef-a4a1f6c20e50",
-      "time": "2026-06-05 07:37:19",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bearish",
-        "EURUSD",
-        "Impact bullish",
-        "USDJPY"
-      ],
-      "text": "South Korea's finance minister said authorities will take appropriate measures if exchange-rate volatility intensifies or infary pressures worsen."
-    },
-    {
-      "id": "te:economy:556607",
-      "time": "2026-06-05 07:36:49",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Japan",
-        "Wage Growth",
-        "Importance 2"
-      ],
-      "text": "Japan Nominal Wage Growth Hits 16-Month High — Average cash earnings in Japan grew by 3.5% year-on-year in April 2026, accelerating from an upwardly revised 3.1% rise in the previous month and surpassing market forecasts of 3.2%. It was the 52nd straight month of growth in nominal wages and the fastest pace since December 2024. Earnings rose across all sectors, including construction (4.3%), manufacturing (4.5%), mining & quarrying (1.1%), utilities (4.5%), information and communications (5.6%), transport and postal services (7.2%), wholesale and retail trade (2.8%), finance and insurance (11.2%), real estate (1.2%), the food industry (1.8%), and education (2.4%). Meanwhile, inflation-adjusted real wages rose 1.9% year-on-year in April, marking a fourth straight month of increase and accelerating from an upwardly revised 1.4% increase in the previous month. This was the longest stretch of gains in four years and fueled speculation that the Bank of Japan may raise interest rates this month."
-    },
-    {
-      "id": "4918268",
-      "time": "2026-06-05 07:36:00",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【在中東事態發展喜憂參半之際，油價小幅走低】在中東事態發展喜憂參半之際，油價在早盤交易中小幅走低。澳新銀行研究部分析師在一份研究報告中稱，一方面，“以色列和黎巴嫩宣佈停火，這讓人們燃起希望，認為伊朗與美國達成協議的關鍵條件之一已經滿足。“然而，另一方面，“幾乎沒有跡象表明雙方的關係正在拉近，“澳新銀行研究部的分析師表示。澳新銀行研究部的分析師指出，美國總統特朗普表示談判已進入最後階段，但伊朗外交部長Araghchi表示談判已經停滯。近月西得州中質油期貨下跌0.2%，報每桶92.84美元。"
-    },
-    {
-      "id": "em:qqyh_zgyh:202606053760772162",
-      "time": "2026-06-05 07:36:00",
-      "tags": [
-        "央行",
-        "中國央行"
-      ],
-      "text": "【央行連續縮量續做3個月期買斷式逆回購】昨日，中國人民銀行釋出公開市場買斷式逆回購招標公告。由於本月有8000億元3個月期買斷式逆回購到期，因此在開展上述操作後，3個月期買斷式逆回購將實現淨回籠3000億元。這也是中國人民銀行連續第4個月縮量續做3個月期買斷式逆回購。"
-    },
-    {
-      "id": "4918267",
-      "time": "2026-06-05 07:34:52",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "韓國財政部：若匯率波動加劇、通脹壓力惡化，將採取應對措施。"
-    },
-    {
-      "id": "4918266",
-      "time": "2026-06-05 07:34:05",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【日本實際工資連續第四個月上漲 為日央行加息提供支撐】日本勞動者實際工資連續第四個月走高，創下四年以來最長連漲週期，利好日本央行本月加息。日本厚生勞動省週五公佈資料：剔除通脹後的實際工資同比上漲1.9%，較上月修正值1.4%進一步提速，高於經濟學家預期的1.7%，創下2021年末以來最長月度連增紀錄。名義薪資同比增長3.5%，同樣超出市場一致預期的3.1%。基本工資漲幅3.4%；日本央行重點跟蹤、規避抽樣偏差的全職員工薪資指標上漲2.6%，兩項資料均體現薪資基本面走強。薪資資料出爐之際，日本央行正籌備6月15日至16日的貨幣政策會議，市場普遍預計央行理事會將上調基準利率25個基點。薪資穩步增長預示內需韌性充足，進一步支撐貨幣政策迴歸常態化。知情人士本週透露，日本監管機構將在本次議息會議上考量加息事宜，同時研討2026年後續階段進一步加息的空間。"
     }
   ]
 }
